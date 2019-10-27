@@ -1,7 +1,7 @@
 ---
 title: "Analysis of the mtcars Dataset"
-author: "Manas Tiwari"
-date: "22.10.2018"
+author: "Hanish Woona"
+date: "26.10.2019"
 output:
   slidy_presentation: default
   html_document:
